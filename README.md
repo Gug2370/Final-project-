@@ -43,8 +43,8 @@ Module containing functions for:
 ### question_bank.txt
 Contains question-answer pairs used to generate exams.
 
-### README.md
-Project documentation.
+
+
 
 ---
 
@@ -68,3 +68,12 @@ Project documentation.
 
 ```python
 import random
+
+---
+
+## Member Collaboration
+Gurung Dipen
+Raikhola Ganesh
+Tamnag Safal Dong
+Dhami Dambar Singh
+
